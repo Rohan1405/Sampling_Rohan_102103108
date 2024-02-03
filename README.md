@@ -1,6 +1,6 @@
 # Sampling_Rohan_102103108
 
-# Fraud Detection Model Evaluation
+
 
 ## Overview
 
@@ -26,6 +26,7 @@ Sampling is a crucial method employed in data analysis to extract insights about
 ## Model Evaluation
 
 Following the generation of five distinct samples using the mentioned sampling techniques, five models were applied to each sample.
+<img src="img.png"></img>
 
 
 ## Conclusion
